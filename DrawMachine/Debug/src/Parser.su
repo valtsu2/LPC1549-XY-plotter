@@ -1,0 +1,8 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+Parser.cpp:10:1:Parser::Parser(Debug*, CommandHandler*)	32	static
+Parser.cpp:17:1:Parser::~Parser()	16	static
+Parser.cpp:17:1:virtual Parser::~Parser()	16	static
+Parser.cpp:22:6:void Parser::CoordinateStrToInt(char*, int*)	48	static
+Parser.cpp:43:5:int Parser::InList(char*)	24	static
+Parser.cpp:56:5:int Parser::StrToInt(char*)	16	static
+Parser.cpp:62:6:void Parser::ParseBuff(char*)	176	static

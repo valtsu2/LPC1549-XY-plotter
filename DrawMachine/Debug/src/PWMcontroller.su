@@ -1,0 +1,8 @@
+swm_15xx.h:199:20:void Chip_SWM_Init()	8	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+PWMcontroller.cpp:12:1:PWMcontroller::PWMcontroller()	32	static
+PWMcontroller.cpp:19:1:PWMcontroller::~PWMcontroller()	16	static
+PWMcontroller.cpp:19:1:virtual PWMcontroller::~PWMcontroller()	16	static
+PWMcontroller.cpp:25:6:void PWMcontroller::setPenPWM(int)	64	static
+PWMcontroller.cpp:39:6:void PWMcontroller::initPWM()	16	static
+PWMcontroller.cpp:77:6:void PWMcontroller::setLazerPWM(int)	64	static

@@ -1,0 +1,9 @@
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+main.cpp:43:6:void RIT_IRQHandler()	8	static
+main.cpp:50:13:void prvSetupHardware()	8	static
+main.cpp:59:13:void debugTask(void*)	16	static
+main.cpp:64:13:void RunCommands(void*)	16	static
+main.cpp:73:13:void GcodeReceiver(void*)	208	static
+main.cpp:125:6:void vConfigureTimerForRunTimeStats()	8	static
+main.cpp:134:5:int main()	24	static

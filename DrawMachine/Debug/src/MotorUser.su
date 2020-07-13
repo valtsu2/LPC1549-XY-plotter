@@ -1,0 +1,17 @@
+core_cm3.h:1323:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm3.h:1335:22:void NVIC_DisableIRQ(IRQn_Type)	16	static
+ritimer_15xx.h:107:20:void Chip_RIT_Enable(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:117:20:void Chip_RIT_Disable(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:151:20:void Chip_RIT_EnableCompClear(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:181:20:void Chip_RIT_ClearIntStatus(LPC_RITIMER_T*)	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+MotorUser.cpp:9:1:MotorUser::MotorUser()	16	static
+MotorUser.cpp:13:1:MotorUser::MotorUser(Debug*)	112	static
+MotorUser.cpp:22:1:MotorUser::~MotorUser()	16	static
+MotorUser.cpp:22:1:virtual MotorUser::~MotorUser()	16	static
+MotorUser.cpp:28:6:void MotorUser::HandlerMotor()	24	static
+MotorUser.cpp:68:6:void MotorUser::GoSteps(motorCommand)	40	static
+MotorUser.cpp:113:6:void MotorUser::SetSpeed(int)	24	static
+MotorUser.cpp:117:6:void MotorUser::SetDirection(Direction, Direction)	16	static
+MotorUser.cpp:123:6:void MotorUser::GetSteps(int*, int*)	24	static
+MotorUser.cpp:129:6:void MotorUser::MesureSteps(int*, int*)	24	static

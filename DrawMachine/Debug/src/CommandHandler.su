@@ -1,0 +1,15 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+CommandHandler.h:39:8:constexpr m10Settings::m10Settings()	16	static
+CommandHandler.cpp:11:1:CommandHandler::CommandHandler(Debug*, MotorUser*)	32	static
+CommandHandler.cpp:18:1:CommandHandler::CommandHandler()	16	static
+CommandHandler.cpp:21:1:CommandHandler::~CommandHandler()	16	static
+CommandHandler.cpp:21:1:virtual CommandHandler::~CommandHandler()	16	static
+CommandHandler.cpp:25:6:void CommandHandler::RunCommand()	120	static
+CommandHandler.cpp:49:6:void CommandHandler::AddMoveCommand(int, int)	104	static
+CommandHandler.cpp:93:6:void CommandHandler::AddPenCommand(int)	72	static
+CommandHandler.cpp:99:6:void CommandHandler::AddLaserCommand(int)	72	static
+CommandHandler.cpp:106:6:void CommandHandler::AddMesure()	72	static
+CommandHandler.cpp:111:5:int CommandHandler::Map(int, int, int, int, int)	40	static
+CommandHandler.cpp:118:6:void CommandHandler::GetSettings(char**)	144	static
+CommandHandler.cpp:129:6:void CommandHandler::SetM5cmd(m5cmd)	16	static
+CommandHandler.cpp:137:6:void CommandHandler::SetM2cmd(m2cmd)	24	static

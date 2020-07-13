@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.crt.dsfdebug.crtmcu.launchType">
+<stringAttribute key=".gdbinit" value=""/>
+<stringAttribute key="InstructionTraceInfo" value="eJzFVl2P2jgUfV9p/0OU9y4EmAyVylbGMSXafMl2Zqp9sTzgoWxDwiZOO/336xjD8OGhPFRaHpA/zj0+99yL8YePL5vC+SbqZl2VE9f7o+86olxUy3W5mrg5nb0bux///P23D0JuhHwKhOTroukWKK9XQs4El20tGifm/1T1w55HscTr8mShi0E0nvJGOGC5VDHNxH13N/T9/si/H7hOppZEKSeurFvh9jp88Egv8WPfH3u+FR/a+Mf3/feenR/RqU1P/+7+mP+ZF40JiC8CvDeAyqvv8gw78MejoTf0+/YYWvOFmLVlKYpTRXfv/dG4b3fou4RVLch69UUNNtuqVACnO9fqGWyiavF14iZtUezGrqMosFgRqWhUnf63j2sK/rzvqC6JE/UGsFBp8porvY2TtJsnUU/c0c4N0m63VS3F0oGbbczl4ovxyoE/FoWAVVvKDq7XuoDOMtPTTsAl7+b7mjjRuvzqHWYxf4l5o7zz7tzDuf3duXaa3cmGZTexknjXSG7XMvg1NMMdTe/gpWmzrK6e14W6FoyLjSkHgxRHzgMvWnHwo/cWvndU4D3wsn+7neRli+QGNovLZt5fGPtmfqzq5aGZxVO7wuLfQ46KhEheS9XfW30vqVlRHLb1LBLfRKE36XojGsmPHNM/SvAaYa6x2VESr10XBhNXbYYBZhlGBCX0vC87BMUAIkYowFR9p9k17BwQNgtn6SyPIts+iCjCCaDhA2JTDBI4ZxmAfyH7wfM8nrLhgJE8y1Jsx4QxUtLijCnWHEQMJTANwuSTDYxRkEMUMJjmidLBPBsIgoTlBDEUTxU0VKk/AgrnWRomlNgCAkABA4EyEaadjpTuBaPA7kHEMPoUEiWBqBEIwDRCphPPaqWb8axqek2XX8tNVSqfqT4bYEBTfCHSBAxGu4iuPixAGZ2/ATTMihUlgfKgG6iiRSxMspyyaU4YCf9G16PjOECqEsplHfWWKIPWHv48hSNlWlCa0yvcgzP0VSHGHF314KLwNyVh2uoG8TZbCYoQ/HnuGQix7jZEyO2OhQmhOI9Vt5E0xxAZeO+1v3qHG0y/TNTolv9p81axXG3nT4QLOmHh278cLP/7+tdA6Oz86r5+xA5y8vTTS6fPw/8A5sgcsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"/>
+<booleanAttribute key="attach" value="false"/>
+<stringAttribute key="bootrom.stall" value=""/>
+<stringAttribute key="com.crt.ctrlcenter.OFSemuDetails" value="LinkServer"/>
+<booleanAttribute key="com.crt.ctrlcenter.crtInit" value="true"/>
+<stringAttribute key="com.crt.ctrlcenter.currentWireType" value="SWD"/>
+<booleanAttribute key="com.crt.ctrlcenter.mainBreakIsHardware" value="true"/>
+<booleanAttribute key="com.crt.ctrlcenter.saveState" value="true"/>
+<stringAttribute key="com.crt.ctrlcenter.serialNumber" value="LinkServerNXP SemiconductorsLPC-LINK2 CMSIS-DAP V5.224ARAWBQPQ"/>
+<mapAttribute key="com.crt.ctrlcenter.symbolsGroupSettings"/>
+<intAttribute key="com.crt.ctrlcenter.version" value="6"/>
+<stringAttribute key="com.nxp.mcuxpresso.flash.base.address" value="0x0"/>
+<booleanAttribute key="com.nxp.mcuxpresso.flash.clear.console" value="true"/>
+<booleanAttribute key="com.nxp.mcuxpresso.flash.confirm" value="false"/>
+<stringAttribute key="com.nxp.mcuxpresso.flash.erase.algorithm" value="Mass erase"/>
+<stringAttribute key="com.nxp.mcuxpresso.flash.executable" value="axf"/>
+<stringAttribute key="com.nxp.mcuxpresso.flash.program.action" value="Program"/>
+<booleanAttribute key="com.nxp.mcuxpresso.flash.reset.target" value="true"/>
+<stringAttribute key="com.nxp.mcuxpresso.ide.probe.manufacturer" value="NXP Semiconductors"/>
+<stringAttribute key="com.nxp.mcuxpresso.ide.probe.name" value="LPC-LINK2 CMSIS-DAP V5.224"/>
+<stringAttribute key="com.nxp.mcuxpresso.ide.probe.type" value="LinkServer"/>
+<stringAttribute key="debug.level" value="2"/>
+<stringAttribute key="emu.speed" value=""/>
+<stringAttribute key="flash.driver.reset" value=""/>
+<stringAttribute key="internal.connect.script" value="LPC15RunBootRomConnect.scp"/>
+<booleanAttribute key="internal.has_swo" value="true"/>
+<stringAttribute key="internal.prelaunch.command" value=""/>
+<stringAttribute key="internal.reset.script" value="LPC15RunBootRomReset.scp"/>
+<stringAttribute key="internal.resethandling" value=""/>
+<stringAttribute key="internal.semihost" value="On"/>
+<stringAttribute key="internal.wirespeed" value=""/>
+<stringAttribute key="internal.wiretype" value="SWD*"/>
+<stringAttribute key="launch.config.handler" value="com.crt.ctrlcenter.launch.CRTLaunchConfigHandler"/>
+<booleanAttribute key="mem.access" value="false"/>
+<stringAttribute key="misc.options" value=""/>
+<stringAttribute key="ondisconnect" value="cont"/>
+<intAttribute key="org.eclipse.cdt.debug.gdbjtag.core.delay" value="3"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.doHalt" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.doReset" value="false"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageFileName" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageOffset" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.initCommands" value="&#10;set remotetimeout 60000&#10;##target_extended_remote##&#10;set mem inaccessible-by-default ${mem.access}&#10;mon ondisconnect ${ondisconnect}&#10;set arm force-mode thumb&#10;${load}&#10;&#9;"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.loadImage" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.loadSymbols" value="true"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.pcRegister" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.runCommands" value="&#10;${run}&#10;&#9;"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.setPcRegister" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.setResume" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.setStopAt" value="true"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.stopAt" value="main"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.symbolsFileName" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.symbolsOffset" value=""/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useFileForImage" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useFileForSymbols" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useProjBinaryForImage" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useProjBinaryForSymbols" value="true"/>
+<stringAttribute key="org.eclipse.cdt.dsf.gdb.DEBUG_NAME" value="arm-none-eabi-gdb"/>
+<booleanAttribute key="org.eclipse.cdt.dsf.gdb.DEBUG_ON_FORK" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.dsf.gdb.EXTERNAL_CONSOLE" value="false"/>
+<stringAttribute key="org.eclipse.cdt.dsf.gdb.GDB_INIT" value=""/>
+<booleanAttribute key="org.eclipse.cdt.dsf.gdb.NON_STOP" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.dsf.gdb.REVERSE" value="false"/>
+<stringAttribute key="org.eclipse.cdt.dsf.gdb.REVERSE_MODE" value="UseSoftTrace"/>
+<stringAttribute key="org.eclipse.cdt.dsf.gdb.TRACEPOINT_MODE" value="TP_NORMAL_ONLY"/>
+<booleanAttribute key="org.eclipse.cdt.dsf.gdb.UPDATE_THREADLIST_ON_SUSPEND" value="false"/>
+<intAttribute key="org.eclipse.cdt.launch.ATTR_BUILD_BEFORE_LAUNCH_ATTR" value="2"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="gdb"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="remote"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug\DrawTesti.axf"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="DrawTesti"/>
+<booleanAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_AUTO_ATTR" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="com.crt.advproject.config.exe.debug.1414555073"/>
+<booleanAttribute key="org.eclipse.cdt.launch.use_terminal" value="false"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/DrawTesti"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.preferred_launchers">
+<mapEntry key="[debug]" value="com.crt.dsfdebug.dsf.MCULaunch"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.dsf.launch.MEMORY_BLOCKS" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;memoryBlockExpressionList context=&quot;reserved-for-future-use&quot;/&gt;&#13;&#10;"/>
+<stringAttribute key="process_factory_id" value="com.crt.dsfdebug.dsf.override.CRTProcessFactory"/>
+<booleanAttribute key="redlink.enable.rangestepping" value="true"/>
+<stringAttribute key="run" value="cont"/>
+<booleanAttribute key="vector.catch" value="true"/>
+</launchConfiguration>
