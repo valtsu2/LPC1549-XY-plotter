@@ -1,0 +1,14 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+DigitalIoPin.h:11:7:DigitalIoPin& DigitalIoPin::operator=(const DigitalIoPin&)	16	static
+Motor.cpp:10:1:Motor::Motor(PortPinPair, PortPinPair, PortPinPair, PortPinPair, Debug*)	88	static
+Motor.cpp:21:1:Motor::~Motor()	16	static
+Motor.cpp:21:1:virtual Motor::~Motor()	16	static
+Motor.cpp:28:6:void Motor::SwitchDirection()	16	static
+Motor.cpp:40:6:void Motor::SetDirection(Direction)	16	static
+Motor.cpp:47:6:void Motor::SlowGoSteps(int, int)	32	static
+Motor.cpp:56:6:void Motor::MesureSteps()	56	static
+Motor.cpp:134:6:bool Motor::CheckSwitches()	16	static
+Motor.cpp:139:6:void Motor::Center()	24	static
+Motor.cpp:147:6:void Motor::GoStep()	16	static
+Motor.cpp:164:5:int Motor::GetPlace()	16	static
+Motor.cpp:168:5:int Motor::GetSteps()	16	static

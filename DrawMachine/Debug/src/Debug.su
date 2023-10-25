@@ -1,0 +1,6 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+Debug.cpp:10:1:Debug::Debug()	16	static
+Debug.cpp:15:1:Debug::~Debug()	16	static
+Debug.cpp:15:1:virtual Debug::~Debug()	16	static
+Debug.cpp:20:6:void Debug::Run()	192	static
+Debug.cpp:34:6:void Debug::Log(const char*, int, int, int, int)	48	static
